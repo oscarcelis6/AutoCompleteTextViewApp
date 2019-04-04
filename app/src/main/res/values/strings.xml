@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoCompleteTextViewApp</string>
+    <string name="titulo">Escribe tu color favorito</string>
+</resources>
